@@ -1,0 +1,9 @@
+i id
+f fff
+i pp
+pp = 123
+fff = 10 +  10.0 * pp
+id = 100.0 + 5 + 1000
+p pp
+p id
+p fff

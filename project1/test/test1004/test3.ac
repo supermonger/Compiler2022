@@ -1,0 +1,15 @@
+i big
+f black
+i cock
+i fuck
+
+big = 128
+black = 2.15
+cock = 18
+
+cock = big + fuck * 6.2 + big / 6 - 4 * 8 / 5 + black
+black = 3.3 - cock * fuck
+
+fuck = 28
+
+p black
